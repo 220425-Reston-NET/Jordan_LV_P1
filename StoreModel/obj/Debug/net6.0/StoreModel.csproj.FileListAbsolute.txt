@@ -1,0 +1,12 @@
+C:\Users\jlope\Documents\Revature\ConsoleApp\StoreModel\bin\Debug\net6.0\StoreModel.deps.json
+C:\Users\jlope\Documents\Revature\ConsoleApp\StoreModel\bin\Debug\net6.0\StoreModel.dll
+C:\Users\jlope\Documents\Revature\ConsoleApp\StoreModel\bin\Debug\net6.0\StoreModel.pdb
+C:\Users\jlope\Documents\Revature\ConsoleApp\StoreModel\obj\Debug\net6.0\StoreModel.csproj.AssemblyReference.cache
+C:\Users\jlope\Documents\Revature\ConsoleApp\StoreModel\obj\Debug\net6.0\StoreModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlope\Documents\Revature\ConsoleApp\StoreModel\obj\Debug\net6.0\StoreModel.AssemblyInfoInputs.cache
+C:\Users\jlope\Documents\Revature\ConsoleApp\StoreModel\obj\Debug\net6.0\StoreModel.AssemblyInfo.cs
+C:\Users\jlope\Documents\Revature\ConsoleApp\StoreModel\obj\Debug\net6.0\StoreModel.csproj.CoreCompileInputs.cache
+C:\Users\jlope\Documents\Revature\ConsoleApp\StoreModel\obj\Debug\net6.0\StoreModel.dll
+C:\Users\jlope\Documents\Revature\ConsoleApp\StoreModel\obj\Debug\net6.0\refint\StoreModel.dll
+C:\Users\jlope\Documents\Revature\ConsoleApp\StoreModel\obj\Debug\net6.0\StoreModel.pdb
+C:\Users\jlope\Documents\Revature\ConsoleApp\StoreModel\obj\Debug\net6.0\ref\StoreModel.dll

@@ -1,0 +1,64 @@
+    //    {
+    //     string FullName, Address, Email;
+    //     Int32 Phone;
+
+    //     Console.WriteLine("[0] - Exit");
+    //     Console.WriteLine("[1] - Please enter the following to register");
+        
+    //     Console.WriteLine("What is your Full Name?");
+    //       custnmerObj.FullName = Console.ReadLine();
+        
+    //     Console.WriteLine("What is your Address?");
+    //       Address = Console.ReadLine();
+        
+    //     Console.WriteLine("What is your Email?");
+    //       Email = Console.ReadLine();
+        
+    //     Console.WriteLine("please enter your Phone Number");
+    //       Phone = Console.ReadLine();
+
+    //      Console.WriteLine("$\n {FullName} {Address} {Email}");
+
+    //    Console.ReadKey();
+       
+
+    
+    //        private string _customerName;
+
+    //     public string GetCustomerName()
+    //     { return _customerName; }
+
+    //     public void SetCustomerName(string value)
+    //     {
+    //         if (value.Length > 2)
+    //         {
+    //             _customerName = value;
+    //         }
+    //         else
+    //         {
+
+    //             throw new ValidationException("Your Name needs to be greater thn 2 charqacters");
+    //         }
+    //     }
+
+
+
+    //     private double _phoneNumber;
+
+    //     public double GetPhoneNumber()
+    //     { return _phoneNumber; }
+
+    //     public void SetPhoneNumber(double value)
+    //     {
+    //         if (value > 10000000000 && value < 999999999999)
+    //         {
+    //             _phoneNumber = value;
+    //         }
+    //         else
+    //         {
+
+    //             throw new ValidationException("Your Name needs to be greater thn 2 charqacters");
+    //         }
+    //     }
+
+

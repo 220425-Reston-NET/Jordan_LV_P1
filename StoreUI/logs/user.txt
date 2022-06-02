@@ -1,0 +1,351 @@
+2022-05-18 21:20:07.625 -05:00 [INF] User going to Main Menu
+2022-05-18 21:20:12.899 -05:00 [INF] User going to Main Menu
+2022-05-18 21:21:58.849 -05:00 [INF] User going to Main Menu
+2022-05-18 21:21:59.000 -05:00 [INF] User going to Main Menu
+2022-05-18 21:21:59.144 -05:00 [INF] User going to Main Menu
+2022-05-18 21:51:52.299 -05:00 [INF] User going to Main Menu
+2022-05-18 21:51:55.723 -05:00 [INF] User going to Main Menu
+2022-05-18 21:51:58.021 -05:00 [INF] User going to Main Menu
+2022-05-18 22:08:26.353 -05:00 [INF] User going to Main Menu
+2022-05-18 22:08:27.088 -05:00 [INF] User going to Main Menu
+2022-05-18 22:08:27.828 -05:00 [INF] User going to Main Menu
+2022-05-18 22:08:28.458 -05:00 [INF] User going to Main Menu
+2022-05-18 23:05:57.157 -05:00 [INF] User going to Main Menu
+2022-05-18 23:05:57.780 -05:00 [INF] User going to Main Menu
+2022-05-18 23:05:58.453 -05:00 [INF] User going to Main Menu
+2022-05-18 23:05:59.141 -05:00 [INF] User going to Main Menu
+2022-05-20 02:14:17.095 -05:00 [INF] User going to Main Menu
+2022-05-20 02:14:17.936 -05:00 [INF] User going to Main Menu
+2022-05-20 02:14:18.559 -05:00 [INF] User going to Main Menu
+2022-05-20 04:39:52.580 -05:00 [INF] User going to Main Menu
+2022-05-23 16:26:18.375 -05:00 [INF] User going to Main Menu
+2022-05-23 16:26:20.100 -05:00 [INF] User going to Main Menu
+2022-05-23 16:26:26.368 -05:00 [INF] User going to Main Menu
+2022-05-23 16:26:31.053 -05:00 [INF] User going to Main Menu
+2022-05-23 16:26:35.673 -05:00 [INF] User going to Main Menu
+2022-05-23 16:27:06.948 -05:00 [INF] User going to Main Menu
+2022-05-23 16:44:47.767 -05:00 [INF] User going to Main Menu
+2022-05-23 16:47:04.355 -05:00 [INF] User going to Main Menu
+2022-05-23 16:47:08.225 -05:00 [INF] User going to Main Menu
+2022-05-23 16:57:34.055 -05:00 [INF] Store Menu
+2022-05-23 16:57:35.795 -05:00 [INF] Store Menu
+2022-05-24 09:21:50.833 -05:00 [INF] Store Menu
+2022-05-24 09:22:00.704 -05:00 [INF] Store Menu
+2022-05-24 09:22:17.163 -05:00 [INF] Store Menu
+2022-05-24 09:24:19.907 -05:00 [INF] Store Menu
+2022-05-24 09:24:58.751 -05:00 [INF] Store Menu
+2022-05-24 09:25:00.264 -05:00 [INF] Store Menu
+2022-05-24 09:25:01.585 -05:00 [INF] Store Menu
+2022-05-25 05:15:32.648 -05:00 [INF] Store Menu
+2022-05-25 05:15:34.368 -05:00 [INF] Store Menu
+2022-05-25 05:15:35.593 -05:00 [INF] Store Menu
+2022-05-25 05:15:36.830 -05:00 [INF] Store Menu
+2022-05-25 05:15:46.702 -05:00 [INF] Store Menu
+2022-05-25 05:15:54.099 -05:00 [INF] Store Menu
+2022-05-25 05:19:28.254 -05:00 [INF] Store Menu
+2022-05-25 05:19:31.327 -05:00 [INF] Customer Registration
+2022-05-25 05:20:32.414 -05:00 [INF] Store Menu
+2022-05-25 05:20:34.558 -05:00 [INF] Customer Registration
+2022-05-25 05:20:55.465 -05:00 [INF] Search Store Item
+2022-05-25 05:22:43.392 -05:00 [INF] Search Store Item
+2022-05-25 05:24:56.210 -05:00 [INF] Search Store Inventory
+2022-05-25 05:34:48.867 -05:00 [INF] Store Menu
+2022-05-25 05:34:50.474 -05:00 [INF] Store Menu
+2022-05-25 05:34:53.165 -05:00 [INF] Customer Registration
+2022-05-25 05:35:27.529 -05:00 [WRN] customer name already exist!
+2022-05-25 05:35:27.530 -05:00 [INF] ===Customer Name===  jordan
+Name: Lopez
+LastName:  lopez
+Address==============
+2022-05-25 05:38:49.815 -05:00 [INF] Search Store Inventory
+2022-05-25 05:39:45.439 -05:00 [INF] Search Store Inventory
+2022-05-25 05:40:10.988 -05:00 [INF] Customer Registration
+2022-05-25 06:51:21.931 -05:00 [INF] Store Menu
+2022-05-25 06:51:23.596 -05:00 [INF] Customer Registration
+2022-05-25 06:53:40.651 -05:00 [INF] Store Menu
+2022-05-25 06:53:42.387 -05:00 [INF] Customer Registration
+2022-05-25 06:54:04.987 -05:00 [WRN] customer name already exist!
+2022-05-25 06:54:04.988 -05:00 [INF] ===Customer Name===  jordan 
+Name: Lopez
+LastName:  asldkjaslkdjklasdj
+Address==============
+2022-05-25 06:58:15.476 -05:00 [INF] Store Menu
+2022-05-25 06:58:19.362 -05:00 [INF] Search Store Item
+2022-05-25 07:12:14.243 -05:00 [INF] Search Store Inventory
+2022-05-25 10:25:42.752 -05:00 [INF] Store Menu
+2022-05-25 10:25:44.192 -05:00 [INF] Customer Registration
+2022-05-25 10:38:07.837 -05:00 [INF] Store Menu
+2022-05-25 10:38:09.549 -05:00 [INF] Customer Registration
+2022-05-25 10:41:38.403 -05:00 [INF] Store Menu
+2022-05-25 10:41:41.764 -05:00 [INF] Customer Registration
+2022-05-25 10:42:17.746 -05:00 [WRN] customer name already exist!
+2022-05-25 10:42:17.746 -05:00 [INF] ===Customer Name===  jordan lopez
+Name: Lopez
+LastName: asdjp
+Email: 0
+PhoneNumber: 8523 asdkjasdoiuj oasdpoias
+Address==============
+2022-05-25 10:42:44.890 -05:00 [INF] Search Store Item
+2022-05-25 10:46:12.572 -05:00 [INF] Search Store Item
+2022-05-25 10:51:52.274 -05:00 [INF] Store Menu
+2022-05-25 10:52:04.663 -05:00 [INF] Customer Registration
+2022-05-25 10:53:11.642 -05:00 [INF] Search Store Item
+2022-05-25 10:54:06.982 -05:00 [INF] Search Store Inventory
+2022-05-25 11:45:06.438 -05:00 [INF] Customer Registration
+2022-05-26 11:13:56.729 -05:00 [INF] Store Menu
+2022-05-26 11:15:50.181 -05:00 [INF] Store Menu
+2022-05-26 11:15:51.156 -05:00 [INF] Store Menu
+2022-05-26 11:16:15.256 -05:00 [INF] Customer Registration
+2022-05-26 11:52:24.370 -05:00 [INF] Customer Registration
+2022-05-26 13:10:38.944 -05:00 [INF] Customer Registration
+2022-05-26 13:11:06.053 -05:00 [INF] Search Store Item
+2022-05-26 13:11:55.055 -05:00 [INF] Search Store Item
+2022-05-26 13:11:56.602 -05:00 [INF] Search Store Item
+2022-05-26 13:14:17.621 -05:00 [INF] Customer Registration
+2022-05-26 13:27:39.870 -05:00 [INF] Search Store Item
+2022-05-26 13:28:30.852 -05:00 [INF] Search Store Item
+2022-05-26 13:32:15.697 -05:00 [INF] Search Store Item
+2022-05-26 14:14:02.230 -05:00 [INF] Search Store Item
+2022-05-26 14:14:07.371 -05:00 [INF] Search Store Item
+2022-05-26 14:14:22.402 -05:00 [INF] Customer Registration
+2022-05-26 14:15:24.583 -05:00 [WRN] customer name already exist!
+2022-05-26 14:15:24.585 -05:00 [INF] ===Customer Name===  Gearge Herrera
+Name: Lopez
+LastName: GH1989@hotmail.com
+Email: 0
+PhoneNumber: 8755 Philips St Houston Tx
+Address==============
+2022-05-26 14:23:15.737 -05:00 [INF] Search Store Item
+2022-05-26 14:29:05.263 -05:00 [INF] Search Store Item
+2022-05-26 14:29:13.604 -05:00 [INF] Search Store Item
+2022-05-26 14:29:33.513 -05:00 [INF] Search Store Item
+2022-05-26 14:29:49.056 -05:00 [INF] Search Store Item
+2022-05-26 14:30:14.388 -05:00 [INF] Search Store Item
+2022-05-26 14:45:10.942 -05:00 [INF] Search Store Item
+2022-05-26 14:46:01.193 -05:00 [INF] Search Store Item
+2022-05-26 14:46:15.932 -05:00 [INF] Search Store Item
+2022-05-26 14:51:44.215 -05:00 [INF] Search Store Item
+2022-05-26 14:51:59.883 -05:00 [INF] Store Menu
+2022-05-26 14:52:03.178 -05:00 [INF] Customer Registration
+2022-05-26 14:53:02.802 -05:00 [WRN] customer name already exist!
+2022-05-26 14:53:02.802 -05:00 [INF] ===Customer Name===  Jordan Lopez
+Name: Lopez
+LastName: JJ79@hotmail.com
+Email: 0
+PhoneNumber: 8750 Philips Dr Houston Tx
+Address==============
+2022-05-26 14:54:40.218 -05:00 [WRN] customer name already exist!
+2022-05-26 14:54:40.218 -05:00 [INF] ===Customer Name===  Jordan Lopez
+Name: Lopez
+LastName: JL42@hotmail.com
+Email: 0
+PhoneNumber: 8750 Philips Dr. Houston Tx
+Address==============
+2022-05-26 15:00:28.573 -05:00 [WRN] customer name already exist!
+2022-05-26 15:00:28.574 -05:00 [INF] ===Customer Name===  Jordan Lopez
+Name: Lopez
+LastName: JL4555@hotmail.com
+Email: 0
+PhoneNumber: 8769 Philips
+Address==============
+2022-05-26 15:10:56.309 -05:00 [INF] Customer Registration
+2022-05-26 15:12:01.114 -05:00 [WRN] customer name already exist!
+2022-05-26 15:12:01.114 -05:00 [INF] ===First Name===  jordan lop
+Last Name: Lopez
+Email: greatest_ever101Hotmail.com
+Address: 8790 park In Houston Tx
+PhoneNumber: 7148944959
+==============
+2022-05-26 15:23:18.648 -05:00 [INF] Search Store Item
+2022-05-26 15:23:35.250 -05:00 [INF] Search Store Item
+2022-05-26 15:24:16.861 -05:00 [INF] Search Store Item
+2022-05-26 15:24:34.920 -05:00 [INF] Search Store Item
+2022-05-26 15:24:49.090 -05:00 [INF] Search Store Item
+2022-05-26 15:27:39.546 -05:00 [INF] Search Store Item
+2022-05-26 15:27:39.753 -05:00 [INF] Search Store Item
+2022-05-26 15:28:24.025 -05:00 [INF] Search Store Item
+2022-05-26 15:53:35.635 -05:00 [INF] Customer Registration
+2022-05-26 15:54:13.839 -05:00 [WRN] customer name already exist!
+2022-05-26 15:54:13.839 -05:00 [INF] ===First Name===  jordan lopez 
+Last Name: Lopez
+Email: jlopezvilla87@hotmail.com
+Address: 8890 Philip Dr. Tx
+PhoneNumber: 8394566969
+==============
+2022-05-26 15:55:04.464 -05:00 [WRN] customer name already exist!
+2022-05-26 15:55:04.464 -05:00 [INF] ===First Name===  jordan lopez 
+Last Name: Lopez
+Email: jlopezvilla87@hotmail.com
+Address: 8890 Philip Dr. Tx
+PhoneNumber: 1
+==============
+2022-05-26 15:55:59.480 -05:00 [WRN] customer name already exist!
+2022-05-26 15:55:59.480 -05:00 [INF] ===First Name===  george j
+Last Name: Lopez
+Email: jjread89@Hotmail.com
+Address: 9820 Numble Dr.
+PhoneNumber: 8904569898
+==============
+2022-05-26 16:15:09.306 -05:00 [INF] Customer Registration
+2022-05-26 16:15:44.760 -05:00 [WRN] customer name already exist!
+2022-05-26 16:15:44.761 -05:00 [INF] ===First Name===  jordan l
+Last Name: Lopez
+Email: jordan20@hotmail.com
+Address: 87205 DrPhill Dr
+PhoneNumber: 3468987970
+==============
+2022-05-26 16:21:18.120 -05:00 [WRN] customer name already exist!
+2022-05-26 16:21:18.120 -05:00 [INF] ===First Name===  jordan
+Last Name: Lopez
+Email: jj8959@hotmail.com
+Address: 346 left lane
+PhoneNumber: 8923456789
+==============
+2022-05-26 16:21:44.048 -05:00 [INF] Search Store Inventory
+2022-05-26 16:29:15.658 -05:00 [INF] Customer Registration
+2022-05-26 16:29:40.251 -05:00 [WRN] customer name already exist!
+2022-05-26 16:29:40.251 -05:00 [INF] ===First Name===  jdpoajdjoaisj
+Last Name: Lopez
+Email: asoidjaosidj@hotmail.com
+Address: jdladsija
+PhoneNumber: 3465789678
+==============
+2022-05-26 16:30:05.995 -05:00 [INF] Search Store Item
+2022-05-26 16:30:14.002 -05:00 [INF] Search Store Item
+2022-05-26 16:30:15.667 -05:00 [INF] Search Store Item
+2022-05-26 16:30:17.332 -05:00 [INF] Search Store Item
+2022-05-26 16:30:19.441 -05:00 [INF] Search Store Item
+2022-05-26 16:30:22.311 -05:00 [INF] Search Store Item
+2022-05-26 16:30:26.597 -05:00 [INF] Search Store Item
+2022-05-26 16:30:29.246 -05:00 [INF] Search Store Item
+2022-05-26 16:31:59.968 -05:00 [INF] Search Store Item
+2022-05-26 16:32:06.535 -05:00 [INF] Search Store Item
+2022-05-26 16:32:07.959 -05:00 [INF] Search Store Item
+2022-05-26 16:32:10.385 -05:00 [INF] Search Store Item
+2022-05-26 16:37:04.564 -05:00 [INF] Search Store Item
+2022-05-26 16:37:15.458 -05:00 [INF] Search Store Item
+2022-05-26 16:37:26.943 -05:00 [INF] Search Store Item
+2022-05-26 16:38:17.754 -05:00 [INF] Search Store Item
+2022-05-26 16:38:19.193 -05:00 [INF] Search Store Item
+2022-05-26 16:38:55.372 -05:00 [INF] Search Store Item
+2022-05-26 18:52:57.429 -05:00 [INF] Customer Registration
+2022-05-26 18:53:49.303 -05:00 [WRN] customer name already exist!
+2022-05-26 18:53:49.303 -05:00 [INF] ===First Name===  hector navarro
+Last Name: Lopez
+Email: HNC87@hotmail.com
+Address: 3443 North Ave
+PhoneNumber: 9871235678
+==============
+2022-05-26 19:27:24.915 -05:00 [INF] Customer Registration
+2022-05-26 19:36:17.120 -05:00 [INF] Search Store Inventory
+2022-05-26 19:36:36.763 -05:00 [INF] Search Store Item
+2022-05-26 19:36:51.378 -05:00 [INF] Search Store Item
+2022-05-26 19:37:00.930 -05:00 [INF] Search Store Item
+2022-05-26 19:37:06.684 -05:00 [INF] Search Store Item
+2022-05-26 19:37:19.164 -05:00 [INF] Search Store Item
+2022-05-26 19:40:31.011 -05:00 [INF] Search Store Item
+2022-05-26 19:40:44.399 -05:00 [INF] Search Store Item
+2022-05-26 19:40:54.565 -05:00 [INF] Search Store Item
+2022-05-26 19:45:47.639 -05:00 [INF] Search Store Item
+2022-05-26 19:45:49.077 -05:00 [INF] Search Store Item
+2022-05-26 19:46:01.500 -05:00 [INF] Search Store Item
+2022-05-26 19:46:11.988 -05:00 [INF] Search Store Item
+2022-05-26 19:46:27.958 -05:00 [INF] Search Store Item
+2022-05-26 19:46:40.138 -05:00 [INF] Search Store Item
+2022-05-26 19:55:32.475 -05:00 [INF] Search Store Item
+2022-05-26 19:56:54.517 -05:00 [INF] Customer Registration
+2022-05-26 19:57:36.725 -05:00 [WRN] customer name already exist!
+2022-05-26 19:57:36.726 -05:00 [INF] ===First Name===  hector herrera
+Last Name: Lopez
+Email: HH1327@gmailcom
+Address: 8750 Phillip Dr,
+PhoneNumber: 7148976055
+==============
+2022-05-26 20:11:50.744 -05:00 [INF] Customer Registration
+2022-05-26 20:13:42.170 -05:00 [WRN] customer name already exist!
+2022-05-26 20:13:42.170 -05:00 [INF] ===First Name===  aslkdjajksd
+Last Name: Lopez
+Email: aslkdjlkajsd
+Address: asdjlkasjd
+PhoneNumber: 987455767
+==============
+2022-05-26 20:15:45.323 -05:00 [INF] Customer Registration
+2022-05-26 20:28:23.411 -05:00 [INF] Customer Registration
+2022-05-26 20:34:11.533 -05:00 [INF] Customer Registration
+2022-05-26 20:41:01.491 -05:00 [INF] Customer Registration
+2022-05-26 20:44:40.065 -05:00 [INF] Customer Registration
+2022-05-26 20:53:52.235 -05:00 [INF] Customer Registration
+2022-05-26 21:00:01.567 -05:00 [INF] Customer Registration
+2022-05-26 21:09:55.619 -05:00 [INF] Customer Registration
+2022-05-26 21:21:24.238 -05:00 [INF] Customer Registration
+2022-05-26 21:23:25.247 -05:00 [INF] Customer Registration
+2022-05-26 21:23:50.604 -05:00 [INF] Customer Registration
+2022-05-26 21:28:16.647 -05:00 [INF] Customer Registration
+2022-05-26 21:29:45.376 -05:00 [INF] Customer Registration
+2022-05-26 21:31:54.198 -05:00 [INF] Customer Registration
+2022-05-26 21:35:34.006 -05:00 [INF] Customer Registration
+2022-05-26 21:38:11.119 -05:00 [INF] Customer Registration
+2022-05-26 21:41:08.127 -05:00 [INF] Search Store Item
+2022-05-26 21:41:22.022 -05:00 [INF] Search Store Item
+2022-05-26 21:41:32.529 -05:00 [INF] Search Store Item
+2022-05-26 21:41:52.104 -05:00 [INF] Search Store Item
+2022-05-26 21:58:33.310 -05:00 [INF] Search Store Item
+2022-05-26 21:58:35.167 -05:00 [INF] Search Store Item
+2022-05-26 21:58:55.291 -05:00 [INF] Search Store Item
+2022-05-26 22:03:07.901 -05:00 [INF] Search Store Inventory
+2022-05-26 22:03:44.588 -05:00 [INF] Search Store Item
+2022-05-26 22:10:09.449 -05:00 [INF] Search Store Item
+2022-05-26 22:45:01.427 -05:00 [INF] Customer Registration
+2022-05-26 22:47:04.089 -05:00 [INF] Customer Registration
+2022-05-26 22:48:37.695 -05:00 [INF] Search Store Item
+2022-05-26 22:50:25.045 -05:00 [INF] Search Store Item
+2022-05-26 22:57:59.193 -05:00 [INF] Search Store Item
+2022-05-26 22:58:14.131 -05:00 [INF] Search Store Item
+2022-05-26 22:58:15.412 -05:00 [INF] Search Store Item
+2022-05-26 23:00:12.274 -05:00 [INF] Search Store Item
+2022-05-26 23:00:12.480 -05:00 [INF] Search Store Item
+2022-05-26 23:00:12.704 -05:00 [INF] Search Store Item
+2022-05-26 23:00:13.843 -05:00 [INF] Search Store Item
+2022-05-26 23:00:52.219 -05:00 [INF] Search Store Item
+2022-05-26 23:01:22.914 -05:00 [INF] Search Store Item
+2022-05-26 23:08:04.523 -05:00 [INF] Search Store Item
+2022-05-26 23:15:06.447 -05:00 [INF] Customer Registration
+2022-05-26 23:16:37.160 -05:00 [INF] Search Store Item
+2022-05-26 23:18:28.000 -05:00 [INF] Search Store Item
+2022-05-26 23:19:37.143 -05:00 [INF] Search Store Item
+2022-05-26 23:44:55.630 -05:00 [INF] Search Store Item
+2022-05-27 07:26:47.718 -05:00 [INF] Customer Registration
+2022-05-27 07:32:21.928 -05:00 [INF] Customer Registration
+2022-05-27 07:33:56.330 -05:00 [INF] Search Store Inventory
+2022-05-27 07:34:17.105 -05:00 [INF] Customer Registration
+2022-05-27 07:37:16.615 -05:00 [INF] Customer Registration
+2022-05-27 09:14:06.364 -05:00 [INF] Customer Registration
+2022-05-27 09:23:58.911 -05:00 [INF] Search Store Item
+2022-05-27 11:35:15.350 -05:00 [INF] User going to Register With Us
+2022-05-27 11:36:35.492 -05:00 [INF] user going to Search Item menu
+2022-05-27 11:41:42.405 -05:00 [INF] user going to Search Item menu
+2022-05-27 11:41:45.574 -05:00 [INF] user going to Search Item menu
+2022-05-27 11:41:49.105 -05:00 [INF] user going to Search Item menu
+2022-05-27 11:41:59.330 -05:00 [INF] User going to Register With Us
+2022-05-27 11:42:35.904 -05:00 [INF] user going to Search Item menu
+2022-05-27 11:48:29.105 -05:00 [INF] user going to Search Item menu
+2022-05-27 11:50:32.439 -05:00 [INF] user going to Search Item menu
+2022-05-27 11:55:31.880 -05:00 [INF] user going to Search Item menu
+2022-05-27 11:57:25.656 -05:00 [INF] User going to Register With Us
+2022-05-27 12:05:10.799 -05:00 [INF] User going to Register With Us
+2022-05-27 12:05:58.692 -05:00 [INF] User going to Register With Us
+2022-05-27 12:09:03.687 -05:00 [INF] User going to Register With Us
+2022-05-27 12:16:04.205 -05:00 [INF] User going to Register With Us
+2022-05-27 12:17:10.223 -05:00 [INF] User going to Register With Us
+2022-05-27 12:17:54.266 -05:00 [INF] user going to Search Item menu
+2022-05-27 12:22:38.004 -05:00 [INF] user going to Search Item menu
+2022-05-27 12:23:54.695 -05:00 [INF] user going to Search Item menu
+2022-05-27 12:24:34.117 -05:00 [INF] user going to Search Item menu
+2022-05-27 13:45:06.446 -05:00 [INF] user going to Search Item menu
+2022-05-27 13:46:52.007 -05:00 [INF] user going to Search Item menu
+2022-05-27 13:48:48.269 -05:00 [INF] User going to Register With Us
+2022-05-27 13:50:09.527 -05:00 [INF] user going to Search Item menu
+2022-05-27 13:50:17.723 -05:00 [INF] user going to Search Item menu
+2022-05-27 13:51:38.386 -05:00 [INF] user going to Search Item menu
+2022-05-27 13:51:46.213 -05:00 [INF] User going to Register With Us
+2022-05-27 14:02:20.573 -05:00 [INF] User going to Register With Us

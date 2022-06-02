@@ -1,0 +1,50 @@
+[
+
+    {
+        "Color": "Black",
+        "Material": "Leather",
+        "Quantity": 6,
+        "Price": 59
+      },
+      {
+        "Color": "White",
+        "Material": "Leather",
+        "Qty": 5,
+        "Price": 49
+      },
+      {
+        "Color": "Brown",
+        "Material": "Swede",
+        "Qty": 8,
+        "Price": 79
+      },
+
+      {
+        "Color": "Black",
+        "Material": "Leather",
+        "Qty": 14,
+        "Price": 59
+      },
+
+      {
+        "Color": "White",
+        "Material": "Leather",
+        "Qty": 3,
+        "Price": 89
+      },
+
+         
+      {
+        "Color": "Blue",
+        "Material": "Leather",
+        "Qty": 7,
+        "Price": 89
+      },
+      {
+        "Color": "Black",
+        "Material": "Cloth",
+        "Qty": 10,
+        "Price": 69
+      }
+
+]
