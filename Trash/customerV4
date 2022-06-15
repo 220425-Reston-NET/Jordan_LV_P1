@@ -1,0 +1,188 @@
+// using StoreBL;
+// using StoreModel;
+
+
+
+
+
+// public class AddCustomer : IMenu
+
+// {
+
+//     private CustomerInfo  customerObj = new Customer();
+
+    
+//     private ICustomerBL _cstomer
+
+
+//         public AddCustomer(IRepository<CustomerInfo> p_customerName) =>
+//             //Set the field with the parameter
+//             customerName = p_customerName;
+
+//        // NOTE: Look into your program.cs and fix the red line
+//         ===========================================
+
+
+        
+       
+
+//         static void Main(string[]arg )
+//         {
+
+//         string FullName, Address, Email;
+//         Int32 Phone;
+
+
+//          Console.WriteLine("[1] - Add Name");
+//         Console.WriteLine("[2] - Add Address");
+//         Console.WriteLine("[3] - Add Phone Number");
+//         Console.WriteLine("[0] - Exit");
+//         Console.WriteLine("Please enter the following to register");
+        
+//         Console.WriteLine("What is your full name?");
+//           custnmerObj.FullName = Console.ReadLine();
+        
+//         Console.WriteLine("What is your Address?");
+//           Address = Console.ReadLine();
+        
+//         Console.WriteLine("What is your email?");
+//           Email = Console.ReadLine();
+        
+//         Console.WriteLine("please enter your phone number");
+//           Phone = Console.ReadLine();
+
+//          Console.WriteLine("$\n {FullName} {Address} {Email}");
+
+//        Console.ReadKey();
+       
+    
+        
+
+//         }
+    
+    
+    
+
+
+
+//     public string YourChoice()
+//     {
+//         string userInput = Console.ReadLine();
+
+//         if (userInput == "1")
+//         {
+//             // Repository.AddStoreItem(storeObj);
+//             try
+//             {
+//                 CustomerBL.Add(_customerObj);
+                
+//             }
+//             catch (System.Exception)
+//             {
+//                 Log.Warning("Name already exist!");
+//                 Log.Information(_storeObj.ToString());
+//                 Console.WriteLine("Name already exist!");
+//                 Console.ReadLine();
+//             }
+
+//             return "MainMenu";
+//         }
+//         else if (userInput == "0")
+//         {
+//             return "Exit";
+//         }
+//         else
+//         {
+//             Console.WriteLine("Please enter a correct response");
+//             return " Add Name";
+//         }
+//     }
+// }
+
+
+
+   
+// }
+//   private static void Display()
+//  {
+//     Person person = new Person();
+
+//     Console.Write("Enter First Name: ");
+//     person.FirstName = Console.ReadLine();
+
+//     Console.Write("Enter Last Name: ");
+//     person.LastName = Console.ReadLine();
+
+//     Console.Write("Enter Phone Number: ");
+//     person.PhoneNumber = Console.ReadLine();
+
+//     Console.Write("Enter Address 1: ");
+//     string[] addresses = new string[2];
+//     addresses[0] = Console.ReadLine();
+//     Console.Write("Enter Address 2 (Optional): ");
+//     addresses[1] = Console.ReadLine();
+//     person.Addresses = addresses;
+      
+//     People.Add(Customer);
+// }
+
+//     private static void PrintPerson(Person person)
+// {
+//     Console.WriteLine("First Name: " + person.FirstName);
+//     Console.WriteLine("Last Name: " + person.LastName);
+//     Console.WriteLine("Phone Number: " + person.PhoneNumber);
+//     Console.WriteLine("Address 1: " + person.Addresses[0]);
+//     Console.WriteLine("Address 2: " + person.Addresses[1]);
+//     Console.WriteLine("-------------------------------------------");
+// }
+
+
+    
+//        public void Display();
+    
+//         throw new NotImplementedException();
+    
+
+//     public string YourChoice();
+//      {
+
+//      }
+//         string userInput = Console.ReadLine();
+     
+//         if (userInput == "1")
+//         {
+
+//             // Repository.AddCustomer(customerObj);
+//             try
+//             {
+//                 Customer.Add(_customerObj);
+                
+//             }
+//             catch (System.Exception)
+//             {
+//                 Log.Warning("Name already exist!");
+//                 Log.Information(_customerObj.ToString());
+//                 Console.WriteLine("Name already exist!");
+//                 Console.ReadLine();
+//             }
+
+//             return "MainMenu";
+//         }
+//         else if (userInput == "0")
+//         {
+//             return "Exit";
+//         }
+//         else
+//         {
+//             Console.WriteLine("Please enter a correct response");
+//             return " Add Name";
+//         }
+            
+            
+//             public override string ToString()
+//         {
+//             return $"===Store Item Info===\nCustomerName:  {CustomerName}\nName: {CustomerAddress}\nAddress:  {CustomerEmail}\nEmail: ";
+//         }
+//        }
+
+//     }

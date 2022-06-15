@@ -1,0 +1,38 @@
+  // private List<Ability> GiveAbilityStoreItem(int p_storeItemId)
+        {
+            string SQLquery = @"select p.StoreBrand, a.abName, pa.PP, a.abPower from Pokemon p
+                        inner join pokemons_abilities pa on p.pokeId = pa.pokeId
+                        inner join Ability a on a.abId = pa.abId
+                        where p.pokeId = @pokeId";
+
+            List<Ability> listOfAbility = new List<Ability>();
+
+            using (SqlConnection con = new SqlConnection(_connectionString))
+            {
+                con.Open();
+
+                SqlCommand command = new SqlCommand(SQLquery, con);
+
+                command.Parameters.AddWithValue("@StoreItemId", p_storeItemId);
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    listOfAbility.Add(new Ability(){
+                        Color = reader.GetString(1),
+                        Material = reader.GetInt32(3),
+                        Qty = reader.GetInt32(2)
+                    });
+                }
+            }
+
+            return listOfAbility;
+        }
+
+        public void Update(StoreItem p_resource)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
